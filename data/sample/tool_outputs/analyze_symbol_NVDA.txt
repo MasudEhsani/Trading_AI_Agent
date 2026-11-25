@@ -1,0 +1,11 @@
+[SIMULATED prices (not real market data)]
+NVDA
+last: 116.54
+sma20: 113.26
+sma50: 107.52
+rsi14: 58.4
+change_5d_pct: 2.0
+change_20d_pct: 4.6
+volatility_20d_pct: 31.5
+max_drawdown_pct: -17.91
+last 10 closes: [114.92, 114.56, 116.45, 115.67, 114.25, 111.71, 111.79, 109.57, 113.22, 116.54]

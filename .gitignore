@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Your own runs: personal trading history, never commit it
+data/live/*
+!data/live/.gitkeep
+
+# Secrets
+.env

@@ -1,0 +1,5 @@
+cash: 3478.5 EUR | total value: 9924.11 EUR
+SAP: 4 @ avg 437.9 | now 427.02 | value 1708.08 (17.2%) | P/L -2.48%
+AAPL: 7 @ avg 229.15 | now 251.79 | value 1762.53 (17.8%) | P/L 9.88%
+ASML: 1 @ avg 988.04 | now 1110.36 | value 1110.36 (11.2%) | P/L 12.38%
+NVDA: 16 @ avg 112.06 | now 116.54 | value 1864.64 (18.8%) | P/L 4.0%

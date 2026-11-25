@@ -1,0 +1,26 @@
+[project]
+name = "trading-ai-agent"
+version = "0.2.0"
+description = "A Claude + MCP research assistant for a paper-trading account (simulated money)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["anthropic", "mcp>=2"]
+
+[project.optional-dependencies]
+real-data = ["yfinance"]
+samples = ["matplotlib"]
+dev = ["pytest", "matplotlib"]
+
+[project.scripts]
+trading-agent = "trading_agent.app:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["trading_agent*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

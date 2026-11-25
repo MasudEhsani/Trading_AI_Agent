@@ -1,0 +1,19 @@
+{
+  "note": "SIMULATED prices; decisions by a rule-based stand-in for Claude.",
+  "period_start": "2026-05-25",
+  "period_end": "2026-11-20",
+  "trading_days": 130,
+  "start_cash_eur": 10000.0,
+  "final_total_eur": 9924.11,
+  "agent_return_pct": -0.76,
+  "benchmark_return_pct": 0.01,
+  "agent_max_drawdown_pct": -5.57,
+  "benchmark_max_drawdown_pct": -11.1,
+  "orders_filled": 18,
+  "orders_pending": 0,
+  "proposals_blocked_by_risk_rules": 65,
+  "completed_round_trips": 7,
+  "win_rate_pct": 28.6,
+  "realised_pnl_eur": -380.85,
+  "fees_paid_eur": 18.0
+}

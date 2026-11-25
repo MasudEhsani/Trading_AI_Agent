@@ -1,0 +1,5 @@
+anthropic
+mcp>=2
+pytest
+matplotlib   # only for scripts/generate_sample_data.py
+# yfinance   # uncomment for real prices (MARKET_DATA=yahoo)

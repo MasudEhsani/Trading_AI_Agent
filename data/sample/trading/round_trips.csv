@@ -1,0 +1,8 @@
+symbol,closed,qty,cost_eur,proceeds_eur,pnl_eur,pnl_pct,exit_reason
+MSFT,2026-06-19,4,1590.92,1479.72,-111.2,-6.99,Trend turned down
+ASML,2026-06-24,1,1352.32,1251.41,-100.91,-7.46,Trend turned down
+NVDA,2026-07-02,16,1753.64,1587.8,-165.84,-9.46,Stop-loss
+SAP,2026-08-18,4,1722.44,1601.56,-120.88,-7.02,Trend turned down
+AAPL,2026-09-18,8,1736.28,1708.92,-27.36,-1.58,Trend turned down
+MSFT,2026-10-05,4,1517.04,1661.32,144.28,9.51,Trend turned down
+NVDA,2026-10-06,17,1731.09,1732.15,1.06,0.06,Trend turned down

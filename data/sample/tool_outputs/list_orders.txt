@@ -1,0 +1,18 @@
+#18 2026-10-30 buy 16 NVDA [filled @ 112.06] - Uptrend: SMA20 107.37 above SMA50 105.17, RSI 66.5 (not overbought), +14.22% over 20 days. Main risk: reversal; volatility 25.8% a year.
+#17 2026-10-28 buy 1 ASML [filled @ 988.04] - Uptrend: SMA20 974.18 above SMA50 972.65, RSI 51.5 (not overbought), +8.61% over 20 days. Main risk: reversal; volatility 30.0% a year.
+#16 2026-10-26 buy 7 AAPL [filled @ 229.15] - Uptrend: SMA20 216.95 above SMA50 216.91, RSI 61.7 (not overbought), +10.64% over 20 days. Main risk: reversal; volatility 23.7% a year.
+#15 2026-10-06 sell 17 NVDA [filled @ 101.95] - Trend turned down: SMA20 102.29 below SMA50 102.33, 20-day change -6.19%. Main risk: a false signal in a sideways market.
+#14 2026-10-05 sell 4 MSFT [filled @ 415.58] - Trend turned down: SMA20 431.49 below SMA50 432.34, 20-day change -9.22%. Main risk: a false signal in a sideways market.
+#13 2026-10-01 buy 4 SAP [filled @ 437.9] - Uptrend: SMA20 434.25 above SMA50 433.9, RSI 46.0 (not overbought), +3.68% over 20 days. Main risk: reversal; volatility 22.7% a year.
+#12 2026-09-18 sell 8 AAPL [filled @ 213.74] - Trend turned down: SMA20 218.47 below SMA50 218.86, 20-day change -3.73%. Main risk: a false signal in a sideways market.
+#11 2026-08-25 buy 17 NVDA [filled @ 101.77] - Uptrend: SMA20 100.35 above SMA50 100.14, RSI 54.4 (not overbought), +8.61% over 20 days. Main risk: reversal; volatility 26.0% a year.
+#10 2026-08-18 sell 4 SAP [filled @ 400.64] - Trend turned down: SMA20 451.44 below SMA50 453.74, 20-day change -13.91%. Main risk: a false signal in a sideways market.
+#9 2026-08-07 buy 8 AAPL [filled @ 216.91] - Uptrend: SMA20 218.13 above SMA50 218.1, RSI 55.6 (not overbought), +6.42% over 20 days. Main risk: reversal; volatility 20.9% a year.
+#8 2026-07-16 buy 4 MSFT [filled @ 379.01] - Uptrend: SMA20 396.09 above SMA50 395.18, RSI 47.4 (not overbought), +0.46% over 20 days. Main risk: reversal; volatility 33.6% a year.
+#7 2026-07-02 sell 16 NVDA [filled @ 99.3] - Stop-loss: NVDA is -9.3% below the average buy price (109.54). Main risk: selling just before a rebound.
+#6 2026-06-24 sell 1 ASML [filled @ 1252.41] - Trend turned down: SMA20 1324.13 below SMA50 1329.36, 20-day change -7.52%. Main risk: a false signal in a sideways market.
+#5 2026-06-19 sell 4 MSFT [filled @ 370.18] - Trend turned down: SMA20 393.68 below SMA50 394.5, 20-day change -8.56%. Main risk: a false signal in a sideways market.
+#4 2026-06-16 buy 16 NVDA [filled @ 109.54] - Uptrend: SMA20 108.45 above SMA50 108.18, RSI 58.0 (not overbought), +4.87% over 20 days. Main risk: reversal; volatility 30.6% a year.
+#3 2026-06-09 buy 4 MSFT [filled @ 397.48] - Uptrend: SMA20 393.12 above SMA50 388.85, RSI 47.9 (not overbought), +2.24% over 20 days. Main risk: reversal; volatility 25.3% a year.
+#2 2026-06-02 buy 4 SAP [filled @ 430.36] - Uptrend: SMA20 417.26 above SMA50 378.53, RSI 64.8 (not overbought), +11.98% over 20 days. Main risk: reversal; volatility 25.6% a year.
+#1 2026-05-25 buy 1 ASML [filled @ 1351.32] - Uptrend: SMA20 1358.85 above SMA50 1270.58, RSI 50.7 (not overbought), +0.21% over 20 days. Main risk: reversal; volatility 33.2% a year.
